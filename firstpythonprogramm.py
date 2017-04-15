@@ -3,10 +3,9 @@
 a = 20
 
 if a < 15:
-    print("its truw")
+    print("its smaller than 15")
 
 elif a < 40:
-    print("its also true")
-
+    print("its smaller than 40")
 else:
-    print("its not trure ")
+    print("All are wrong ")
