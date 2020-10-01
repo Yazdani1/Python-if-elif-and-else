@@ -1,6 +1,6 @@
 #python elif if and else
 
-a = 20
+a = int(input("enter the no. = ")
 
 if a < 15:
     print("its smaller than 15")
